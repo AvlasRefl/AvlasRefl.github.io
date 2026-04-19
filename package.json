@@ -22,6 +22,7 @@
     "clean": "gatsby clean",
     "prepare": "husky install",
     "lint-staged": "lint-staged",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d public -b main"
   },
   "lint-staged": {
