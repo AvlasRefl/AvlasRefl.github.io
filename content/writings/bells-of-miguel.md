@@ -187,6 +187,6 @@ Miguel看起来睡着了。Vesper已经睡意全无，只是沉默地躺着，�
 
 
 一些补充信息
-1. Indigo = Indica go，Indica是一种毒品，有时候Indigo会代指吸毒
-2. 圣米格尔大教堂确实是哥特式教堂，
-3. Miguel是Michael的西语名
+1. Indigo：Indica go，Indica是一种毒品，因此有时候Indigo会代指吸毒。也有说法是Indigo指代的是高品质的毒品。
+2. 圣米格尔大教堂确实是哥特式教堂。哥特式教堂的思想是建筑的向上攀升意味着灵魂的向上飞升，高耸的尖顶沟通天堂。
+3. Miguel是Michael的西语版。
