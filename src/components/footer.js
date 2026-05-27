@@ -19,13 +19,13 @@ const StyledSocialLinks = styled.div`
   @media (max-width: 768px) {
     display: block;
     width: 100%;
-    max-width: 270px;
     margin: 0 auto 10px;
     color: var(--light-slate);
   }
 
   ul {
-    ${({ theme }) => theme.mixins.flexBetween};
+    ${({ theme }) => theme.mixins.flexCenter};
+    gap: 28px;
     padding: 0;
     margin: 0;
     list-style: none;

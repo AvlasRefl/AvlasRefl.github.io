@@ -80,7 +80,7 @@ const Hero = () => {
     <a
       className="email-link"
       href="/gallery">
-      Explore my Galary
+      Explore my Gallery
     </a>
   );
 

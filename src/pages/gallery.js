@@ -185,6 +185,15 @@ const StyledWritingDescription = styled.div`
 // Sample gallery data - you can replace this with your actual content
 const galleryData = [
   {
+    id: 4,
+    title: '与你共同梦见短暂盛夏',
+    description: '意思是，如果可以的话，我真的很想和你有一个夏天',
+    type: '深林的回响',
+    category: 'writings',
+    slug: '/writings/our-summer-to-come',
+    date: '2026-05-27'
+  },
+  {
     id: 1,
     title: '夏令时珍珠',
     description: '谨以此文献给一位曾经的友人。愿我们都能坦然拥抱真实的自己。',
