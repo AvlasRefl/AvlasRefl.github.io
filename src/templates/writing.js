@@ -10,12 +10,12 @@ const StyledWritingContainer = styled.main`
   margin: 0 auto;
 
   @media (max-width: 768px) {
-    padding: 150px 0 0;
+    padding: 150px 20px 0;
     max-width: 100%;
   }
 
   @media (max-width: 480px) {
-    padding: 125px 0 0;
+    padding: 125px 18px 0;
   }
 `;
 
